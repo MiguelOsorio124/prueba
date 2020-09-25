@@ -1,0 +1,304 @@
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\AlumnosController.cs
+GetAlumnos 18
+GetAlumnos -1
+GetAlumno 5
+GetAlumno -1
+PutAlumno 5
+PutAlumno -1
+PostAlumno 5
+PostAlumno -1
+DeleteAlumno 5
+DeleteAlumno -1
+AlumnoExists 34
+AlumnoExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\CancionesController.cs
+GetCanciones 5
+GetCanciones -1
+GetCancion 18
+GetCancion -1
+PutCancion 8
+PutCancion -1
+PostCancion 5
+PostCancion -1
+DeleteCancion 5
+DeleteCancion -1
+CancionExists 5
+CancionExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\CategoriasController.cs
+GetCategorias 7
+GetCategorias -1
+GetCategoria 6
+GetCategoria -1
+PutCategoria 12
+PutCategoria -1
+PostCategoria 22
+PostCategoria -1
+DeleteCategoria 6
+DeleteCategoria -1
+CategoriaExists 6
+CategoriaExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\CiudadesController.cs
+GetCiudades 5
+GetCiudades -1
+GetCiudad 5
+GetCiudad -1
+PutCiudad 9
+PutCiudad -1
+PostCiudad 6
+PostCiudad -1
+DeleteCiudad 5
+DeleteCiudad -1
+CiudadExists 6
+CiudadExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\CoursesController.cs
+GetCourses 8
+GetCourses -1
+GetCourse 5
+GetCourse -1
+PutCourse 5
+PutCourse -1
+PostCourse 5
+PostCourse -1
+DeleteCourse 10
+DeleteCourse -1
+CourseExists 6
+CourseExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\EmpresasController.cs
+GetEmpresas 5
+GetEmpresas -1
+GetEmpresa 5
+GetEmpresa -1
+PutEmpresa 6
+PutEmpresa -1
+PostEmpresa 6
+PostEmpresa -1
+DeleteEmpresa 5
+DeleteEmpresa -1
+EmpresaExists 5
+EmpresaExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\GenerosController.cs
+GetGeneros 5
+GetGeneros -1
+GetGenero 7
+GetGenero -1
+PutGenero 10
+PutGenero -1
+PostGenero 7
+PostGenero -1
+DeleteGenero 21
+DeleteGenero -1
+GeneroExists 7
+GeneroExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\GradosController.cs
+GetGrados 5
+GetGrados -1
+GetGrado 6
+GetGrado -1
+PutGrado 5
+PutGrado -1
+PostGrado 5
+PostGrado -1
+DeleteGrado 6
+DeleteGrado -1
+GradoExists 8
+GradoExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\ProfesionalesController.cs
+GetProfesionales 5
+GetProfesionales -1
+GetProfesional 5
+GetProfesional -1
+PutProfesional 5
+PutProfesional -1
+PostProfesional 8
+PostProfesional -1
+DeleteProfesional 6
+DeleteProfesional -1
+ProfesionalExists 14
+ProfesionalExists -1
+EmpresaExists 6
+EmpresaExists -1
+CountProfesionales 27
+CountProfesionales -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\ResidencialesController.cs
+GetResidenciales 5
+GetResidenciales -1
+GetResidencial 5
+GetResidencial -1
+PutResidencial 6
+PutResidencial -1
+PostResidencial 5
+PostResidencial -1
+DeleteResidencial 32
+DeleteResidencial -1
+ResidencialExists 8
+ResidencialExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\StudentCoursesController.cs
+GetStudentCourses 7
+GetStudentCourses -1
+GetStudentCourse 6
+GetStudentCourse -1
+PostStudentCourse 7
+PostStudentCourse -1
+DeleteStudentCourse 30
+DeleteStudentCourse -1
+StudentCourseExists 11
+StudentCourseExists -1
+StudentExists 8
+StudentExists -1
+CourseExists 5
+CourseExists -1
+CountCourses 8
+CountCourses -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\StudentsController.cs
+GetStudents 6
+GetStudents -1
+GetStudent 6
+GetStudent -1
+PutStudent 6
+PutStudent -1
+PostStudent 7
+PostStudent -1
+DeleteStudent 6
+DeleteStudent -1
+StudentExists 12
+StudentExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Controllers\VehiculosController.cs
+GetVehiculos 6
+GetVehiculos -1
+GetVehiculo 5
+GetVehiculo -1
+PutVehiculo 5
+PutVehiculo -1
+PostVehiculo 6
+PostVehiculo -1
+DeleteVehiculo 7
+DeleteVehiculo -1
+VehiculoExists 6
+VehiculoExists -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\AlumnoMap.cs
+Configure 7
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\CancionMap.cs
+Configure 16
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\CategoriaMap.cs
+Configure 5
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\CiudadMap.cs
+Configure 6
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\CourseMap.cs
+Configure 7
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\DMVDataContext.cs
+OnConfiguring 8
+OnConfiguring -1
+OnModelCreating 25
+OnModelCreating -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\EmpresaMap.cs
+Configure 5
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\GeneroMap.cs
+Configure 6
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\GradoMap.cs
+Configure 6
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\ProfesionalMap.cs
+Configure 5
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\ResidencialMap.cs
+Configure 5
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\StudentCourseMap.cs
+Configure 9
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\StudentMap.cs
+Configure 7
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\DataContext\VehiculoMap.cs
+Configure 14
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Migrations\20200822175255_CrearDBTarea4.2.cs
+Up 7
+Up -1
+Down 27
+Down -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Migrations\20200822175255_CrearDBTarea4.2.Designer.cs
+BuildTargetModel 5
+BuildTargetModel -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Migrations\DMVDataContextModelSnapshot.cs
+BuildModel 6
+BuildModel -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Alumno.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Cancion.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Categoria.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Ciudad.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Course.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Empresa.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Genero.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Grado.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Profesional.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Residencial.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Student.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\StudentCourse.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Models\Vehiculo.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Program.cs
+Main 8
+Main -1
+CreateHostBuilder 5
+CreateHostBuilder -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\Startup.cs
+ConfigureServices 13
+ConfigureServices -1
+Configure 5
+Configure -1
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+C:\Users\Osorio\Desktop\Miguel Osorio Ceutec\III 2020\Ingenieria de Software II\Semana 4\TareaSemana4.2_MiguelOsorio_21551109\obj\Debug\netcoreapp3.1\TareaSemana4.2_MiguelOsorio_21551109.AssemblyInfo.cs
+

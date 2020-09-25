@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TareaSemana4._2_MiguelOsorio_21551109</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200822084917_CrearDMVDB.cs" />
+    <Compile Remove="Migrations\20200822084917_CrearDMVDB.Designer.cs" />
+    <Compile Remove="Migrations\20200822091246_CrearDMVDB.cs" />
+    <Compile Remove="Migrations\20200822091246_CrearDMVDB.Designer.cs" />
+    <Compile Remove="Migrations\20200822094141_CrearDMVDB.cs" />
+    <Compile Remove="Migrations\20200822094141_CrearDMVDB.Designer.cs" />
+    <Compile Remove="Migrations\20200822110436_CrearDB.cs" />
+    <Compile Remove="Migrations\20200822110436_CrearDB.Designer.cs" />
+    <Compile Remove="Migrations\20200822162425_CrearDB.cs" />
+    <Compile Remove="Migrations\20200822162425_CrearDB.Designer.cs" />
+    <Compile Remove="Migrations\20200822174228_CrearBDTarea4.2.cs" />
+    <Compile Remove="Migrations\20200822174228_CrearBDTarea4.2.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+
+</Project>
